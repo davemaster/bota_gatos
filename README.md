@@ -1,6 +1,8 @@
 # bota_gatos 
-### (cat repellent)
+### [cat repellent](https://www.hackster.io/daveware/harmless-cat-repellent-7f631f)
+
 ![imagen](https://github.com/davemaster/bota_gatos/assets/1075807/5fbb900a-2f31-4085-98b4-3147a8cd265c)
+
 
 
 Here, my torment trying to training a model for recognize ONLY cats, so they can be "friendly" repellent of their doings in their adventures in a garage.
